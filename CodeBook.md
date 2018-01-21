@@ -1,6 +1,5 @@
 #CodeBook.md
-#####author: Shane B. Bimeda
-#####date: January 21, 2018
+author: Shane B. Bimedadate: January 21, 2018
 
 
 
